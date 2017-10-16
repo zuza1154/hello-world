@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi humans!
+
+Zuzanna here. I like cooking, baking and eat.
